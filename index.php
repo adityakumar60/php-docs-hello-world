@@ -1,7 +1,7 @@
 <?php
 
-echo "Hello World! \n";
-
-echo "hello aditya! \n";
-
+echo "Hello World!";
+echo "</br>";
+echo "hello aditya!";
+echo "</br>";
 echo "How are you? \n";
